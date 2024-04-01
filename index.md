@@ -44,15 +44,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Upon graduation from Lehigh University, I will be working at SEI as an Operations Analyst. In the future, I would like to move to PE, VC, or Hedge Funds.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+My hobbies include playing and watching soccer, I play defensive midfield and center back. I am a Manchester United fan. I love to play games: poker, chess, sudoku, and video games.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
