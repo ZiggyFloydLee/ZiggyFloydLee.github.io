@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   in _config.yml 
   <br><br>
   <a href="https://www.linkedin.com/in/ziggyfloydlee/">LinkedIn</a> 
-
+  <br><br>
+  <a href="/images/Zachary%20_Ziggy_%20Lee%20Resume.pdf">Resume</a>
   
 theme: jekyll-theme-minimal
