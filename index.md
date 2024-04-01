@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a senior at Lehigh University graduating with a finance major and computer science minor. This website was created as a final project for FIN 377 taught by Prof. Bowen.
+I'm a senior at Lehigh University graduating with a finance major and computer science minor. I have interned most recently (and currently) as a Private Equity Analyst at [Alchemy Capital Partners](https://www.alchemycappartners.com/), as a Data Analytics Intern at [OneMain Financial](https://www.onemainfinancial.com/), and as a Sales Intern at [Millennium Advisors](https://millenniumadvisors.com/). At Lehigh University I have enjoyed a breadth of finance courses in: Data Science for Finance, Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. Courses in computer science: Object Oriented Programming, Web Systems Programming, Data Science, Survey of Artificial Intelligence, Business Information Systems.
 
 <!-- Upload your own photo and change the path -->
 
