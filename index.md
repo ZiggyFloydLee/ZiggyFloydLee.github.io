@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I'm a senior at Lehigh University graduating with a finance major and computer science minor.  
 
 <!-- Upload your own photo and change the path -->
 
