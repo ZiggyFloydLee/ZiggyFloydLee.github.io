@@ -5,7 +5,7 @@ I'm a senior at Lehigh University graduating with a finance major and computer s
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/ZiggyFloydLee/ZiggyFloydLee.github.io/blob/master/images/Headshot.jpg" width="50%">
+  <img class="img-circle" src="/images/Headshot.jpg" width="50%">
 </p>
 
 ---
