@@ -1,11 +1,11 @@
 ## About Me
 
-I'm a senior at Lehigh University graduating with a finance major and computer science minor.  
+I'm a senior at Lehigh University graduating with a finance major and computer science minor. This website was created as a final project for FIN 377 taught by Prof. Bowen.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/ZiggyFloydLee/ZiggyFloydLee.github.io/blob/master/images/Headshot.jpg" width="50%">
 </p>
 
 ---
