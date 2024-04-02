@@ -38,7 +38,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-<img src="images/JavaProjectScreenshot.jpg"/>
+<img src="/images/JavaProjectScreenshot.jpg?raw=true"/>
 
 ---
 
