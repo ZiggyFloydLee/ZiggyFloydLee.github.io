@@ -7,6 +7,7 @@ I'm a senior at Lehigh University graduating with a finance major and computer s
 At Lehigh University I have enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
 
 [Click for More Information](https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/#courseinventory)
+
 ---
 
 Courses in computer science: [Programming and Data Structures](https://engineering.lehigh.edu/cse/academics/course-index/cse-17-programming-and-data-structures-3), [Web Systems Programming](https://engineering.lehigh.edu/cse/academics/course-index/cse-264-web-systems-programming-3), [Introduction to Data Science](https://engineering.lehigh.edu/cse/academics/course-index/cse-160-introduction-data-science-3), Survey of Artificial Intelligence, Business Information Systems.
