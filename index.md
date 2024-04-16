@@ -1,6 +1,15 @@
 ## About Me
 
-I'm a senior at Lehigh University graduating with a finance major and computer science minor. I have interned most recently (and currently) as a Private Equity Analyst at [Alchemy Capital Partners](https://www.alchemycappartners.com/), as a Data Analytics Intern at [OneMain Financial](https://www.onemainfinancial.com/), and as a Sales Intern at [Millennium Advisors](https://millenniumadvisors.com/). At Lehigh University I have enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments [Click for More Information](https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/#courseinventory). Courses in computer science: [Programming and Data Structures](https://engineering.lehigh.edu/cse/academics/course-index/cse-17-programming-and-data-structures-3), [Web Systems Programming](https://engineering.lehigh.edu/cse/academics/course-index/cse-264-web-systems-programming-3), [Introduction to Data Science](https://engineering.lehigh.edu/cse/academics/course-index/cse-160-introduction-data-science-3), Survey of Artificial Intelligence, Business Information Systems.
+I'm a senior at Lehigh University graduating with a finance major and computer science minor. I have interned most recently as a Private Equity Analyst at [Alchemy Capital Partners](https://www.alchemycappartners.com/), as a Data Analytics Intern at [OneMain Financial](https://www.onemainfinancial.com/), and as a Sales Intern at [Millennium Advisors](https://millenniumadvisors.com/). 
+
+---
+
+At Lehigh University I have enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
+
+[Click for More Information](https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/#courseinventory)
+---
+
+Courses in computer science: [Programming and Data Structures](https://engineering.lehigh.edu/cse/academics/course-index/cse-17-programming-and-data-structures-3), [Web Systems Programming](https://engineering.lehigh.edu/cse/academics/course-index/cse-264-web-systems-programming-3), [Introduction to Data Science](https://engineering.lehigh.edu/cse/academics/course-index/cse-160-introduction-data-science-3), Survey of Artificial Intelligence, Business Information Systems.
 
 <!-- Upload your own photo and change the path -->
 
@@ -11,16 +20,6 @@ I'm a senior at Lehigh University graduating with a finance major and computer s
 ---
 
 ## Portfolio
-
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 _**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExploration)**_
 
@@ -40,15 +39,15 @@ This is a link to the repo for my final project in FIN 377. In this project my g
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-<img src="images/JavaProjectScreenshot.png" height= "200"/>
-
 This is a link to download a zip file of a project I did in java.
+
+<img src="images/JavaProjectScreenshot.png" height= "200"/>
 
 ---
 
 ## Career Objectives
 
-Upon graduation from Lehigh University, I will be working at SEI as an Operations Analyst. In the future, I would like to move to PE, VC, or Hedge Funds.
+Upon graduation from Lehigh University, I will be working at [SEI](https://www.seic.com/) as an Operations Analyst. My interests include: Sales & Trading, PE, VC, and Hedge Funds.
 
 ---
 
