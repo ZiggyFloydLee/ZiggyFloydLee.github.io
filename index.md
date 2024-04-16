@@ -30,15 +30,15 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[FIN 377: Data Science for Finance Final Project](https://github.com/ZiggyFloydLee/FIN377-FinalProject-Team12)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/FIN377Logo.png"/>
 
 ---
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-<img src="/images/JavaProjectScreenshot.jpg?raw=true"/>
+<img src="images/JavaProjectScreenshot.png"/>
 
 ---
 
