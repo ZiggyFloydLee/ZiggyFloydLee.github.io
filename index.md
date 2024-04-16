@@ -22,23 +22,27 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExploration)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+This ia a repo with some of my personal projects around sports analysis.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Jupyter_logo.png" height="200"/>
 
 ---
 
 _**[FIN 377: Data Science for Finance Final Project](https://github.com/ZiggyFloydLee/FIN377-FinalProject-Team12)**_
 
-<img src="images/FIN377Logo.png"/>
+This is a link to the repo for my final project in FIN 377. In this project my group and I look into the IPO market, comparing traditional and SPAC IPOs.
+
+<img src="images/FIN377Logo.png" height= "200"/>
 
 ---
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-<img src="images/JavaProjectScreenshot.png"/>
+<img src="images/JavaProjectScreenshot.png" height= "200"/>
+
+This is a link to download a zip file of a project I did in java.
 
 ---
 
