@@ -28,7 +28,7 @@ _**[FIN 377: Data Science for Finance Final Project](https://github.com/ZiggyFlo
 
 This is a link to the repo for my final project in FIN 377. In this project my group and I look into the IPO market, comparing traditional and SPAC IPOs.
 
-<img src="images/FIN377Logo.png" height= "200"/>
+<img src="/images/FIN377Logo.png" height= "200"/>
 
 ---
 
@@ -36,7 +36,7 @@ _**[Java Project](/portfolio/Java.zip)**_
 
 This is a link to download a zip file of a project I did in java.
 
-<img src="images/JavaProjectScreenshot.png" height= "200"/>
+<img src="/images/JavaProjectScreenshot.png" height= "200"/>
 
 ---
 
@@ -44,7 +44,7 @@ _**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExp
 
 This ia a repo with some of my personal projects around sports analysis.
 
-<img src="images/Jupyter_logo.png" height="200"/>
+<img src="/images/Jupyter_logo.png" height="200"/>
 
 ---
 
@@ -52,7 +52,7 @@ _**[RStudio Project](/portfolio/R.zip)**_
 
 This is a zip folder of my RStudio projects.
 
-<img scr="images/Lucy.png" height="200"/>
+<img src="/images/NYTWordCloud.png" height="200"/>
 
 ---
 
