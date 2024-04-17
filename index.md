@@ -22,12 +22,6 @@ Courses in computer science: [Programming and Data Structures](https://engineeri
 
 ## Portfolio
 
-_**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExploration)**_
-
-This ia a repo with some of my personal projects around sports analysis.
-
-<img src="images/Jupyter_logo.png" height="200"/>
-
 ---
 
 _**[FIN 377: Data Science for Finance Final Project](https://github.com/ZiggyFloydLee/FIN377-FinalProject-Team12)**_
@@ -45,6 +39,18 @@ This is a link to download a zip file of a project I did in java.
 <img src="images/JavaProjectScreenshot.png" height= "200"/>
 
 ---
+
+_**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExploration)**_
+
+This ia a repo with some of my personal projects around sports analysis.
+
+<img src="images/Jupyter_logo.png" height="200"/>
+
+---
+
+_**[RStudio Project](/portfolio/R.zip)**_
+
+<img scr="images/NYTWordCloud.png">
 
 ## Career Objectives
 
