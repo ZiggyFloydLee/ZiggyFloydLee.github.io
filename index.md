@@ -50,7 +50,9 @@ This ia a repo with some of my personal projects around sports analysis.
 
 _**[RStudio Project](/portfolio/R.zip)**_
 
-<img scr="images/NYTWordCloud.png">
+This is a zip folder of my RStudio projects.
+
+<img scr="images/NYTWordCloud.png" height="200"/>
 
 ## Career Objectives
 
