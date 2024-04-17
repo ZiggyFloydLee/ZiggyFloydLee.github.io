@@ -52,7 +52,9 @@ _**[RStudio Project](/portfolio/R.zip)**_
 
 This is a zip folder of my RStudio projects.
 
-<img scr="images/NYTWordCloud.png" height="200"/>
+<img scr="images/Lucy.png" height="200"/>
+
+---
 
 ## Career Objectives
 
