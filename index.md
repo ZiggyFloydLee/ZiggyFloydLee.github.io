@@ -8,17 +8,17 @@ Welcome to my personal website/online portfolio!
 
 *Lifelong Learner, Analytical Thinker*
 
-Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
+I am Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
 
-Currently working as an Operations Analyst on the Syndicated Loans Desk at [SEI](https://www.seic.com/). I bring an eye for detail, and am always looking for ways to be more efficient. 
+I currently work as an Operations Analyst on the Syndicated Loans Desk at [SEI](https://www.seic.com/). I bring an eye for detail, and am always looking for ways to be more efficient. 
 
-Beyond work, I enjoy playing soccer, golf, chess, and poker. I also enjoy cooking, reading, and playing video games.
+Outside of work, I enjoy playing soccer, golf, chess, and poker. I also enjoy cooking, reading, and playing video games.
 
-I graduated from Lehigh University in 2024, where I majored in Finance, and minored in Computer Science.
+I graduated from Lehigh University in 2024, where I majored in Finance and minored in Computer Science.
 
 ---
 
-At Lehigh University I enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
+At Lehigh University, I enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
 
 [Click for More Information](https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/#courseinventory)
 
@@ -46,7 +46,7 @@ This is a link to the repo for my final project in FIN 377. In this project my g
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-This is a link to download a zip file of a project I did in java.
+This is a link to download a .zip of a java project exploring Object-Oriented Programming.
 
 <img src="/images/JavaProjectScreenshot.png" height= "200"/>
 
