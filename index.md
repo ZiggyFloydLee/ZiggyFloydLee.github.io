@@ -1,10 +1,20 @@
+Welcome to my personal website/online portfolio!
+
 ## About Me
 
-I'm a senior at Lehigh University graduating with a finance major and computer science minor. I have interned most recently as a Private Equity Analyst at [Alchemy Capital Partners](https://www.alchemycappartners.com/), as a Data Analytics Intern at [OneMain Financial](https://www.onemainfinancial.com/), and as a Sales Intern at [Millennium Advisors](https://millenniumadvisors.com/). 
+Lifelong Learner | Analytical Thinker
+
+Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
+
+Currently working as an Operations Analyst on the Syndicated Loans Desk at [SEI](https://www.seic.com/). I bring an eye for detail, and am always looking for ways to be more efficient. 
+
+Beyond work, I enjoy playing soccer, golf, chess, and poker. I also enjoy cooking, reading, and playing video games.
+
+I graduated from Lehigh University in 2024, where I majored in Finance, and minored in Computer Science.
 
 ---
 
-At Lehigh University I have enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
+At Lehigh University I enjoyed a breadth of finance courses in: [Data Science for Finance](https://ledatascifi.github.io/ledatascifi-2024/content/frontpage.html), Advanced Financial Modeling, Startup and Venture Capital Finance, Derivatives and Risk Management, Securities Analysis and Portfolio Management, Corporate Finance, and Investments. 
 
 [Click for More Information](https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/#courseinventory)
 
@@ -40,14 +50,6 @@ This is a link to download a zip file of a project I did in java.
 
 ---
 
-_**[Personal Python Projects](https://github.com/ZiggyFloydLee/SportsAnalysisExploration)**_
-
-This ia a repo with some of my personal projects around sports analysis.
-
-<img src="/images/Jupyter_logo.png" height="200"/>
-
----
-
 _**[RStudio Project](/portfolio/R.zip)**_
 
 This is a zip folder of my RStudio projects.
@@ -58,13 +60,7 @@ This is a zip folder of my RStudio projects.
 
 ## Career Objectives
 
-Upon graduation from Lehigh University, I will be working at [SEI](https://www.seic.com/) as an Operations Analyst. My interests include: Sales & Trading, PE, VC, and Hedge Funds.
-
----
-
-## Hobbies
-
-My hobbies include playing and watching soccer, I play defensive midfield and center back. I am a Manchester United fan. I love to play games: poker, chess, sudoku, and video games.
+I don't have an ideal job title--I believe in growth, adaptability, and the constant pursuit of knowledge. I thrive in environments that require constantly learning and problem-solving. I seek opportunities that reward intellectual curiosity, analytical thinking, and have a diverse set of repsonsibilities. My ideal career is one where no two days are the same, and where I am consistenttly expanding my expertise while meaningfully contributing to those around me.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
