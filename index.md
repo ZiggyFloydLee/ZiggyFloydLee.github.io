@@ -62,7 +62,7 @@ This is a zip folder of my RStudio projects.
 
 ## Career Objectives
 
-I don't have an ideal job title--I believe in growth, adaptability, and the constant pursuit of knowledge. I thrive in environments that require constantly learning and problem-solving. I seek opportunities that reward intellectual curiosity, analytical thinking, and have a diverse set of repsonsibilities. My ideal career is one where no two days are the same, and where I am consistenttly expanding my expertise while meaningfully contributing to those around me.
+I believe in growth, adaptability, and the constant pursuit of knowledge. I thrive in environments that require constantly learning and problem-solving. I seek opportunities that reward intellectual curiosity, analytical thinking, and have a diverse set of repsonsibilities. My ideal career is one where no two days are the same, and where I am consistenttly expanding my expertise while meaningfully contributing to those around me.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
