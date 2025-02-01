@@ -2,7 +2,7 @@ Welcome to my personal website/online portfolio!
 
 ## About Me
 
-Lifelong Learner | Analytical Thinker
+**Lifelong Learner | Analytical Thinker**
 
 Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
 
