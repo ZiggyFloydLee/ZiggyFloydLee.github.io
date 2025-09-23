@@ -10,7 +10,7 @@ Welcome to my personal website/online portfolio!
 
 I am Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
 
-I currently work as a Portfolio Analyst at Shenkman Capital Management. I bring an eye for detail, and am always looking for ways to be more efficient. 
+I currently work as a Portfolio Administrator at Shenkman Capital Management. I bring an eye for detail, and am always looking for ways to be more efficient. 
 
 Outside of work, I enjoy playing soccer, golf, chess, and poker. I also enjoy cooking, reading, and playing video games.
 
