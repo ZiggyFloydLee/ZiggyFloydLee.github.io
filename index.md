@@ -10,7 +10,7 @@ Welcome to my personal website/online portfolio!
 
 I am Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
 
-I currently work as an Operations Analyst on the Syndicated Loans Desk at [SEI](https://www.seic.com/). I bring an eye for detail, and am always looking for ways to be more efficient. 
+I currently work as a Portfolio Analyst at Shenkman Capital Management. I bring an eye for detail, and am always looking for ways to be more efficient. 
 
 Outside of work, I enjoy playing soccer, golf, chess, and poker. I also enjoy cooking, reading, and playing video games.
 
@@ -38,7 +38,7 @@ Courses in computer science: [Programming and Data Structures](https://engineeri
 
 _**[FIN 377: Data Science for Finance Final Project](https://github.com/ZiggyFloydLee/FIN377-FinalProject-Team12)**_
 
-This is a link to the repo for my final project in FIN 377. In this project my group and I look into the IPO market, comparing traditional and SPAC IPOs.
+This is a link to the repo for my final project in FIN 377. In this project, my group and I analyzed the IPO market, comparing traditional IPOs with SPAC IPOs.
 
 <img src="/images/FIN377Logo.png" height= "200"/>
 
@@ -46,7 +46,7 @@ This is a link to the repo for my final project in FIN 377. In this project my g
 
 _**[Java Project](/portfolio/Java.zip)**_
 
-This is a link to download a .zip of a java project exploring Object-Oriented Programming.
+This is a link to download a .zip of a Java project exploring Object-Oriented Programming.
 
 <img src="/images/JavaProjectScreenshot.png" height= "200"/>
 
@@ -62,8 +62,8 @@ This is a zip folder of my RStudio projects.
 
 ## Career Objectives
 
-I believe in growth, adaptability, and the constant pursuit of knowledge. I thrive in environments that require constantly learning and problem-solving. I seek opportunities that reward intellectual curiosity, analytical thinking, and have a diverse set of repsonsibilities. My ideal career is one where no two days are the same, and where I am consistenttly expanding my expertise while meaningfully contributing to those around me.
+I believe in growth, adaptability, and the constant pursuit of knowledge. I thrive in environments that require constant learning and problem-solving. I seek opportunities that reward intellectual curiosity, analytical thinking, and have a diverse set of responsibilities. My ideal career is one where no two days are the same, and where I consistently expand my expertise while meaningfully contributing to those around me.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attribute -->
