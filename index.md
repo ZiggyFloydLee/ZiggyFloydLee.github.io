@@ -1,5 +1,5 @@
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/Headshot.jpg" width="50%">
+  <img class="img-circle" src="/images/ZiggyHeadshot.jpg" width="50%">
 </p>
 
 Welcome to my personal website/online portfolio!
