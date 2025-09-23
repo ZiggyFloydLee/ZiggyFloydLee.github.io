@@ -8,7 +8,7 @@ Welcome to my personal website/online portfolio! My dog Lucy says "Hi!"
 
 *Lifelong Learner, Analytical Thinker*
 
-I am Passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
+I am passionate about problem-solving, continuous learning, and mastering new skills. With a strong foundation in finance and computer science, I thrive in dynamic environments that challenge my analytical thinking.
 
 I currently work as a Portfolio Administrator at [Shenkman Capital Management](https://www.shenkmancapital.com/). I bring an eye for detail, and am always looking for ways to be more efficient. 
 
